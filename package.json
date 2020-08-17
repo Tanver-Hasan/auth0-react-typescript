@@ -5,7 +5,7 @@
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.6.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
-    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.7",
     "@types/highlightjs": "^9.12.0",
     "@types/jest": "24.0.23",
